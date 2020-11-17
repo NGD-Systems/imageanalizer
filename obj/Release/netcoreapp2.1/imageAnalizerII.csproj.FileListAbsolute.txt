@@ -1,0 +1,16 @@
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\config\appsettings.json
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\imageAnalizerII.deps.json
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\imageAnalizerII.runtimeconfig.json
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\imageAnalizerII.runtimeconfig.dev.json
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\imageAnalizerII.dll
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\imageAnalizerII.pdb
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\Microsoft.Azure.Devices.Edge.Util.dll
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\bin\Release\netcoreapp2.1\Microsoft.Azure.Devices.Edge.Util.pdb
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.csprojAssemblyReference.cache
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.csproj.CoreCompileInputs.cache
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.AssemblyInfoInputs.cache
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.AssemblyInfo.cs
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.csproj.CopyComplete
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.dll
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.pdb
+C:\Users\herme\source\iotedge-master\iotedge-master\edge-modules\imageAnalizerII\obj\Release\netcoreapp2.1\imageAnalizerII.genruntimeconfig.cache

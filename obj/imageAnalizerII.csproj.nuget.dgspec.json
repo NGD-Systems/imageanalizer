@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-modules\\imageAnalizerII\\imageAnalizerII.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-modules\\imageAnalizerII\\imageAnalizerII.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-modules\\imageAnalizerII\\imageAnalizerII.csproj",
+        "projectName": "imageAnalizerII",
+        "projectPath": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-modules\\imageAnalizerII\\imageAnalizerII.csproj",
+        "packagesPath": "C:\\Users\\herme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-modules\\imageAnalizerII\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\NuGet.Config",
+          "C:\\Users\\herme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/aziot-device-sdk/api/v3/index.json": {},
+          "https://www.myget.org/F/aziot-edge-extension/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-util\\src\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj": {
+                "projectPath": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-util\\src\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.23.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-util\\src\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-util\\src\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj",
+        "projectName": "Microsoft.Azure.Devices.Edge.Util",
+        "projectPath": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-util\\src\\Microsoft.Azure.Devices.Edge.Util\\Microsoft.Azure.Devices.Edge.Util.csproj",
+        "packagesPath": "C:\\Users\\herme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\edge-util\\src\\Microsoft.Azure.Devices.Edge.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\herme\\source\\iotedge-master\\iotedge-master\\NuGet.Config",
+          "C:\\Users\\herme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/aziot-device-sdk/api/v3/index.json": {},
+          "https://www.myget.org/F/aziot-edge-extension/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "App.Metrics": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "App.Metrics.Formatters.Prometheus": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "App.Metrics.Reporting.InfluxDB": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "App.Metrics.Reporting.TextFile": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Nito.AsyncEx": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

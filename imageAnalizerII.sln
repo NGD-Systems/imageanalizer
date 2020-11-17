@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imageAnalizerII", "imageAnalizerII.csproj", "{DD4C21DC-0652-413A-B51F-E6450993D25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CheckInBuild|Any CPU = CheckInBuild|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4C21DC-0652-413A-B51F-E6450993D25D}.CheckInBuild|Any CPU.ActiveCfg = CheckInBuild|Any CPU
+		{DD4C21DC-0652-413A-B51F-E6450993D25D}.CheckInBuild|Any CPU.Build.0 = CheckInBuild|Any CPU
+		{DD4C21DC-0652-413A-B51F-E6450993D25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4C21DC-0652-413A-B51F-E6450993D25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4C21DC-0652-413A-B51F-E6450993D25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4C21DC-0652-413A-B51F-E6450993D25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1266A5-FFF3-4B71-81E8-4BE81A979C8F}
+	EndGlobalSection
+EndGlobal
